@@ -1,0 +1,190 @@
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\bin\Debug\高级项目.exe
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\bin\Debug\高级项目.pdb
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\bin\Debug\zxing.dll
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\bin\Debug\zxing.pdb
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\bin\Debug\zxing.xml
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\obj\x86\Debug\E01_条形码.Form1.resources
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\obj\x86\Debug\高级项目.Properties.Resources.resources
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\obj\x86\Debug\高级项目.exe
+F:\高级项目\EX30-条形码\EX30-条形码\E01-条形码\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\E01-条形码\obj\x86\Debug\高级项目.exe
+C:\Users\dell\Desktop\E01-条形码\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\E01-条形码\bin\Debug\高级项目.exe
+C:\Users\dell\Desktop\E01-条形码\bin\Debug\高级项目.pdb
+C:\Users\dell\Desktop\E01-条形码\bin\Debug\zxing.pdb
+C:\Users\dell\Desktop\E01-条形码\bin\Debug\zxing.xml
+C:\Users\dell\Desktop\E01-条形码\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\E01-条形码\obj\x86\Debug\E01_条形码.Form1.resources
+C:\Users\dell\Desktop\E01-条形码\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\dell\Desktop\E01-条形码\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目\obj\x86\Debug\高级项目.pdb
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\obj\x86\Debug\高级项目.exe
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\obj\x86\Debug\高级项目.pdb
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\bin\Debug\高级项目.exe
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\bin\Debug\高级项目.pdb
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\bin\Debug\zxing.dll
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\bin\Debug\zxing.pdb
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\bin\Debug\zxing.xml
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+F:\高级项目\EX30-条形码\EX30-条形码\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\高级项目\bin\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目\bin\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目\bin\Debug\zxing.pdb
+C:\Users\dell\Desktop\高级项目\bin\Debug\zxing.xml
+C:\Users\dell\Desktop\高级项目\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+C:\Users\dell\Desktop\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\dell\Desktop\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+E:\C# 图像处理\高级项目\bin\Debug\高级项目.exe
+E:\C# 图像处理\高级项目\bin\Debug\高级项目.pdb
+E:\C# 图像处理\高级项目\bin\Debug\zxing.pdb
+E:\C# 图像处理\高级项目\bin\Debug\zxing.xml
+E:\C# 图像处理\高级项目\obj\x86\Debug\高级项目.csprojAssemblyReference.cache
+E:\C# 图像处理\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+E:\C# 图像处理\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+E:\C# 图像处理\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.cache
+E:\C# 图像处理\高级项目\obj\x86\Debug\高级项目.csproj.CoreCompileInputs.cache
+E:\C# 图像处理\高级项目\obj\x86\Debug\高级项目.csproj.CopyComplete
+E:\C# 图像处理\高级项目\obj\x86\Debug\高级项目.exe
+E:\C# 图像处理\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\bin\Debug\高级项目.exe
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\bin\Debug\高级项目.pdb
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\bin\Debug\zxing.pdb
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\bin\Debug\zxing.xml
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\bin\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\bin\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\bin\Debug\zxing.pdb
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\bin\Debug\zxing.xml
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\dell\Desktop\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\bin\Debug\高级项目.exe
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\bin\Debug\高级项目.pdb
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\bin\Debug\zxing.pdb
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\bin\Debug\zxing.xml
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.cache
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.csproj.CopyComplete
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.exe
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目（简化窗口）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\bin\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\bin\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\bin\Debug\zxing.pdb
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\bin\Debug\zxing.xml
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\dell\Desktop\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\bin\Debug\高级项目.exe
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\bin\Debug\高级项目.pdb
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\bin\Debug\zxing.pdb
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\bin\Debug\zxing.xml
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.cache
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csproj.CopyComplete
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.exe
+D:\BaiduNetdiskDownload\C# 图像处理\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\bin\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\bin\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\bin\Debug\zxing.pdb
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\bin\Debug\zxing.xml
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\dell\Desktop\高级项目（界面修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\bin\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\bin\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\bin\Debug\zxing.pdb
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\bin\Debug\zxing.xml
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\dell\Desktop\高级项目（数据库优化）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+D:\qq\623628271\FileRecv\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csprojAssemblyReference.cache
+D:\qq\623628271\FileRecv\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+D:\qq\623628271\FileRecv\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+D:\qq\623628271\FileRecv\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.cache
+D:\qq\623628271\FileRecv\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csproj.CoreCompileInputs.cache
+D:\qq\623628271\FileRecv\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.exe
+D:\qq\623628271\FileRecv\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\E01_条形码.Form1.resources
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\bin\Debug\高级项目.exe
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\bin\Debug\高级项目.pdb
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\bin\Debug\zxing.pdb
+C:\Users\dell\Desktop\新建文件夹 (3)\高级项目（数据库再次优化）(修改）\高级项目(修改）\高级项目\bin\Debug\zxing.xml
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\bin\Debug\高级项目.exe
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\bin\Debug\高级项目.pdb
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\bin\Debug\zxing.pdb
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\bin\Debug\zxing.xml
+C:\Users\dell\Desktop\高级项目（图标重构）\高级项目\obj\x86\Debug\E01_条形码.timebox1.resources
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\bin\Debug\高级项目.exe
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\bin\Debug\高级项目.pdb
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\bin\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\bin\Debug\zxing.xml
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\obj\x86\Debug\E01_条形码.timebox1.resources
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.csproj.CopyComplete
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\Administrator\Desktop\曹项目\程序\程序\任越 151045122\高级项目（图标重构）\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\obj\x86\Debug\高级项目.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\obj\x86\Debug\E01_条形码.timebox1.resources
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\obj\x86\Debug\高级项目.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\obj\x86\Debug\高级项目.pdb
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\bin\Debug\高级项目.exe
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\bin\Debug\高级项目.pdb
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\bin\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\bin\Debug\zxing.xml
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\obj\x86\Debug\高级项目.csproj.CopyComplete
+C:\Users\Administrator\Desktop\曹项目\完整项目\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\Administrator\Desktop\曹项目\高级项目\bin\Debug\高级项目.exe
+C:\Users\Administrator\Desktop\曹项目\高级项目\bin\Debug\高级项目.pdb
+C:\Users\Administrator\Desktop\曹项目\高级项目\bin\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\曹项目\高级项目\bin\Debug\zxing.xml
+C:\Users\Administrator\Desktop\曹项目\高级项目\obj\x86\Debug\高级项目.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\曹项目\高级项目\obj\x86\Debug\E01_条形码.timebox1.resources
+C:\Users\Administrator\Desktop\曹项目\高级项目\obj\x86\Debug\高级项目.Properties.Resources.resources
+C:\Users\Administrator\Desktop\曹项目\高级项目\obj\x86\Debug\高级项目.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\曹项目\高级项目\obj\x86\Debug\高级项目.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\曹项目\高级项目\obj\x86\Debug\高级项目.csproj.CopyComplete
+C:\Users\Administrator\Desktop\曹项目\高级项目\obj\x86\Debug\高级项目.exe
+C:\Users\Administrator\Desktop\曹项目\高级项目\obj\x86\Debug\高级项目.pdb
